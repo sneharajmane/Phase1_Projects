@@ -1,10 +1,14 @@
 package com.phase.project;
 
-public class accessSpecifiers3 {
+//package com.phase.project;
+
+import pack1.*;
+
+public class accessSpecifiers3 extends proaccessSpecifiers {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		accessSpecifiers3 obj = new accessSpecifiers3 ();   
+	       obj.display();  
 	}
 
 }
