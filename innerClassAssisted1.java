@@ -4,7 +4,8 @@ public class innerClassAssisted1 {
  private String msg="Welcome to Java"; 
 	 
 	 class Inner{  
-	  void hello(){System.out.println(msg+", Let us start learning Inner Classes");}  
+	  void hello()
+	  {System.out.println(msg+", Let us start learning Inner Classes");}  
 	 }  
 
 
